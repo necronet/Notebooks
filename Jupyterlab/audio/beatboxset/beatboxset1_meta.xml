@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <identifier>beatboxset1</identifier>
+  <title>beatboxset1: beatboxing audio data set</title>
+  <creator>Dan Stowell</creator>
+  <mediatype>audio</mediatype>
+  <collection>opensource_audio</collection>
+  <description>This dataset contains beatboxing (vocal percussion) recordings from various 
+contributors, who recorded the clips themselves in various conditions. The clips
+were provided by users of the website http://www.humanbeatbox.com/ and are 
+identified by the names they use on that forum. Each clip is from a different
+contributor.
+
+The accompanying spreadsheet file "beatboxset1.csv" provides metadata for the 
+recordings.
+
+Annotations of the recordings are also included, created in Jun-Jul 2009. These mark the position of onsets as well as categorising the events into a handful of standard classes.</description>
+  <date>2008-12-19</date>
+  <year>2008</year>
+  <subject>beatboxing; beatbox; vocal percussion</subject>
+  <licenseurl>http://creativecommons.org/licenses/by-sa/3.0/</licenseurl>
+  <publicdate>2008-12-19 15:11:19</publicdate>
+  <addeddate>2008-12-19 15:07:26</addeddate>
+  <uploader>dan.stowell@gmail.com</uploader>
+  <updater>Dan Stowell</updater>
+  <updater>Dan Stowell</updater>
+  <updatedate>2008-12-19 15:13:44</updatedate>
+  <updatedate>2009-06-25 11:25:27</updatedate>
+  <updatedate>2009-07-21 12:55:45</updatedate>
+  <updater>Dan Stowell</updater>
+  <curation>[curator]validator@archive.org[/curator][date]20140403170136[/date][comment]checked for malware[/comment]</curation>
+  <backup_location>ia903602_22</backup_location>
+</metadata>

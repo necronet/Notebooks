@@ -1,0 +1,1137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Annotations_DR/battleclip_daq.csv" source="original">
+    <format>Unknown</format>
+    <md5>cdf3a7b6df67d2c4590d50c34ba100e3</md5>
+    <mtime>1248174089</mtime>
+    <size>5721</size>
+    <crc32>cb942026</crc32>
+    <sha1>ca8b12d7162c78674ca473693849122bc45e5bcf</sha1>
+  </file>
+  <file name="Annotations_DR/callout_Pneumatic.csv" source="original">
+    <format>Unknown</format>
+    <md5>052b6c064bcc662ddf8af48c99c5803e</md5>
+    <mtime>1248174102</mtime>
+    <size>2854</size>
+    <crc32>5b37ae3e</crc32>
+    <sha1>b4e7277854c53c9756f417f1be122d3fd270df3e</sha1>
+  </file>
+  <file name="Annotations_DR/callout_Turn-Table.csv" source="original">
+    <format>Unknown</format>
+    <md5>a17d5886e9a51f1b0111e77eb449e829</md5>
+    <mtime>1248174099</mtime>
+    <size>2098</size>
+    <crc32>27e115</crc32>
+    <sha1>75a8871420d6d80aa1e7452c5b16b917d1506ef0</sha1>
+  </file>
+  <file name="Annotations_DR/callout_adiao.csv" source="original">
+    <format>Unknown</format>
+    <md5>2d1f761fe5ed1c3aaea79bb4018c1e4a</md5>
+    <mtime>1248174092</mtime>
+    <size>4268</size>
+    <crc32>a8cdf512</crc32>
+    <sha1>3899a4f42248d94a8af5b4dd3ed2d5f7b18b1c2c</sha1>
+  </file>
+  <file name="Annotations_DR/callout_azeem.csv" source="original">
+    <format>Unknown</format>
+    <md5>586cf0dd668a33b5ecdef081a816858d</md5>
+    <mtime>1248174098</mtime>
+    <size>4728</size>
+    <crc32>e3ade066</crc32>
+    <sha1>6b37a7243f691450e609a2fec803b5c3a879ed2d</sha1>
+  </file>
+  <file name="Annotations_DR/callout_luckeymonkey.csv" source="original">
+    <format>Unknown</format>
+    <md5>6b3084bf2fac64bb25131f2f453e5adf</md5>
+    <mtime>1248174100</mtime>
+    <size>3448</size>
+    <crc32>8ebb274</crc32>
+    <sha1>ab5bad1a2d776ebea0bfe85637896847f4ddbc65</sha1>
+  </file>
+  <file name="Annotations_DR/callout_mcld.csv" source="original">
+    <format>Unknown</format>
+    <md5>9accdb78c610db2744d74cb1bf85bc9b</md5>
+    <mtime>1248174095</mtime>
+    <size>2761</size>
+    <crc32>130e40c6</crc32>
+    <sha1>ea1d28c297b39f5d0c3f6d8e159ed6333dce4b66</sha1>
+  </file>
+  <file name="Annotations_DR/callout_mouss.csv" source="original">
+    <format>Unknown</format>
+    <md5>2c806d0e6d6e8c955c77b8dc19431a8a</md5>
+    <mtime>1248174091</mtime>
+    <size>2551</size>
+    <crc32>7fdac8a9</crc32>
+    <sha1>f0f61e67d400fe948e290fa9917427c4e6370abd</sha1>
+  </file>
+  <file name="Annotations_DR/putfile_bui.csv" source="original">
+    <format>Unknown</format>
+    <md5>2c8c46f03b9fffac49ff4e115fb619c4</md5>
+    <mtime>1248174097</mtime>
+    <size>8223</size>
+    <crc32>970a83bf</crc32>
+    <sha1>0218b4b54b288627db0f282beeb8a9cf1c293ad5</sha1>
+  </file>
+  <file name="Annotations_DR/putfile_dbztenkaichi.csv" source="original">
+    <format>Unknown</format>
+    <md5>d92d8aac78dd0077e54126a714054017</md5>
+    <mtime>1248174101</mtime>
+    <size>5609</size>
+    <crc32>45c1fc38</crc32>
+    <sha1>de656a5f1ae846217abb834d40f39f229eb439ee</sha1>
+  </file>
+  <file name="Annotations_DR/putfile_pepouni.csv" source="original">
+    <format>Unknown</format>
+    <md5>e63caab90f7e40ff9cde6c1b68a13d6a</md5>
+    <mtime>1248174094</mtime>
+    <size>8266</size>
+    <crc32>8d8d7a96</crc32>
+    <sha1>dfb31a64f8fd9d764e68a494478a45da87eae103</sha1>
+  </file>
+  <file name="Annotations_DR/putfile_vonny.csv" source="original">
+    <format>Unknown</format>
+    <md5>94e0f1324dc45f77b7d285c6fab5898b</md5>
+    <mtime>1248174098</mtime>
+    <size>4475</size>
+    <crc32>2bc91293</crc32>
+    <sha1>786a5f8fe854364439470d6d5a45c4ba8c88d08a</sha1>
+  </file>
+  <file name="Annotations_DR/putfile_william.csv" source="original">
+    <format>Unknown</format>
+    <md5>472af71efb46061efd487fd52be9252e</md5>
+    <mtime>1248174092</mtime>
+    <size>2972</size>
+    <crc32>18c37daf</crc32>
+    <sha1>f27ff4c9a7dd52d9df5f010d4e216f07b6315fd8</sha1>
+  </file>
+  <file name="Annotations_DR/snare_hex.csv" source="original">
+    <format>Unknown</format>
+    <md5>be75b35b78346bca6cf969fa4ac6c31d</md5>
+    <mtime>1248174093</mtime>
+    <size>724</size>
+    <crc32>87fc641</crc32>
+    <sha1>972c9e412e34f377390df6ff7e04197d10eae7ee</sha1>
+  </file>
+  <file name="Annotations_HT/battleclip_daq.csv" source="original">
+    <format>Unknown</format>
+    <mtime>1248174717</mtime>
+    <size>5414</size>
+    <md5>11a11e63c95fbb8f2655ba05003a8718</md5>
+    <crc32>f80d2a3a</crc32>
+    <sha1>f7bc8c6a14cedfece9767aad72299f87ce173275</sha1>
+  </file>
+  <file name="Annotations_HT/callout_Pneumatic.csv" source="original">
+    <format>Unknown</format>
+    <mtime>1248174717</mtime>
+    <size>2603</size>
+    <md5>b7f22e34a895ec779117cbe142440b36</md5>
+    <crc32>c67a034d</crc32>
+    <sha1>1123a95dea4cdd64d2d713fbacbbb29bb826687f</sha1>
+  </file>
+  <file name="Annotations_HT/callout_Turn-Table.csv" source="original">
+    <format>Unknown</format>
+    <mtime>1248174717</mtime>
+    <size>2131</size>
+    <md5>fba6090e50e3f1d1e01dd225a4d9fd91</md5>
+    <crc32>f5cd2674</crc32>
+    <sha1>2cc8474b22e97ac23bc3281d3188387656d629ad</sha1>
+  </file>
+  <file name="Annotations_HT/callout_adiao.csv" source="original">
+    <format>Unknown</format>
+    <mtime>1248174717</mtime>
+    <size>3973</size>
+    <md5>6d7a11b10a6665457dc5fc9396214f8b</md5>
+    <crc32>20e89a7d</crc32>
+    <sha1>ba5762b27bb8fd0bb0940345c00d1873558c70f0</sha1>
+  </file>
+  <file name="Annotations_HT/callout_azeem.csv" source="original">
+    <format>Unknown</format>
+    <mtime>1248174716</mtime>
+    <size>4521</size>
+    <md5>759eb6964bd6915ad2a1b8a8d92b7a25</md5>
+    <crc32>aa61237b</crc32>
+    <sha1>0d2df56555e5dd969f83ce1f0a5658acc9fd2603</sha1>
+  </file>
+  <file name="Annotations_HT/callout_luckeymonkey.csv" source="original">
+    <format>Unknown</format>
+    <mtime>1248174717</mtime>
+    <size>3240</size>
+    <md5>dceb9335ea0d3be546b91ac5da14e76e</md5>
+    <crc32>8cfc1e1a</crc32>
+    <sha1>3245bc9e6819d4b01def859726b992655e21c350</sha1>
+  </file>
+  <file name="Annotations_HT/callout_mcld.csv" source="original">
+    <format>Unknown</format>
+    <mtime>1248175018</mtime>
+    <size>2617</size>
+    <md5>4e770be088d74588edfaa59782e642cc</md5>
+    <crc32>89c1dd17</crc32>
+    <sha1>6b89723848e5903ff0aac4a02958fb54fc2c52d2</sha1>
+  </file>
+  <file name="Annotations_HT/callout_mouss.csv" source="original">
+    <format>Unknown</format>
+    <mtime>1248174717</mtime>
+    <size>2341</size>
+    <md5>15350987ae5ed39b1fb5a04d9b99ae53</md5>
+    <crc32>b980c9dc</crc32>
+    <sha1>0e0b1637b9223e5dc3adf8a98dcffb5e2698cc6f</sha1>
+  </file>
+  <file name="Annotations_HT/putfile_bui.csv" source="original">
+    <format>Unknown</format>
+    <mtime>1248175018</mtime>
+    <size>8500</size>
+    <md5>5173ac46d1a911a9c92a4105dcd8ff98</md5>
+    <crc32>97314529</crc32>
+    <sha1>15bdcea8b0c57f5817085c95aa5d29051e9d8f84</sha1>
+  </file>
+  <file name="Annotations_HT/putfile_dbztenkaichi.csv" source="original">
+    <format>Unknown</format>
+    <mtime>1248174718</mtime>
+    <size>5982</size>
+    <md5>ee9b06a4ac315fdd6603b461a3a90e43</md5>
+    <crc32>21cefdf8</crc32>
+    <sha1>6299fb7ef97d75533c2314e55e684db561690cdc</sha1>
+  </file>
+  <file name="Annotations_HT/putfile_pepouni.csv" source="original">
+    <format>Unknown</format>
+    <mtime>1248174718</mtime>
+    <size>9459</size>
+    <md5>4878cec7958cf132d9727fdec12ab87d</md5>
+    <crc32>e7ef5773</crc32>
+    <sha1>4e19e65b2cd9e9894724ae2343aa224e4bedde34</sha1>
+  </file>
+  <file name="Annotations_HT/putfile_vonny.csv" source="original">
+    <format>Unknown</format>
+    <mtime>1248174718</mtime>
+    <size>4996</size>
+    <md5>5d7d96c5c2e2b1d195d170d486f70196</md5>
+    <crc32>11932b48</crc32>
+    <sha1>7622d549cfb7b8e48fef88740d59e0b4a389d6a2</sha1>
+  </file>
+  <file name="Annotations_HT/putfile_william.csv" source="original">
+    <format>Unknown</format>
+    <mtime>1248175018</mtime>
+    <size>2810</size>
+    <md5>719d26cd45ec1ffc45222204ba61df75</md5>
+    <crc32>8f76f815</crc32>
+    <sha1>bb8d010cbd38d98331f1a25d3efcc6aa7240fb4d</sha1>
+  </file>
+  <file name="Annotations_HT/snare_hex.csv" source="original">
+    <format>Unknown</format>
+    <mtime>1248174718</mtime>
+    <size>658</size>
+    <md5>ccdc9b0de227ffc5b7f2fe5333bfcb54</md5>
+    <crc32>78c601e2</crc32>
+    <sha1>402fc1e554e09a25c747d6e8d3067b362cafdc85</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1541642001</mtime>
+    <size>2882</size>
+    <md5>04ec921a5ee673eb9adcaa17df3a67a3</md5>
+    <crc32>4bb460df</crc32>
+    <sha1>73050fa3f8c8d3ab6fba08c95813a4908abb4f0b</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="about_beatboxset1.txt" source="original">
+    <format>Text</format>
+    <md5>70c64b7b6ea03ba88894d5ab784c6feb</md5>
+    <mtime>1248178638</mtime>
+    <size>3019</size>
+    <crc32>412f51cb</crc32>
+    <sha1>6098860e5ef4b773910396fc4587ea215811bb12</sha1>
+  </file>
+  <file name="battleclip_daq.flac" source="derivative">
+    <format>Flac</format>
+    <original>battleclip_daq.wav</original>
+    <md5>4a8f32c5389146c7ecb8222b24b949cb</md5>
+    <mtime>1229698810</mtime>
+    <size>2732737</size>
+    <crc32>177cd4df</crc32>
+    <sha1>111a972d00721391d3bf1a783d1d6b507d2ebbde</sha1>
+    <length>56.14</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="battleclip_daq.mp3" source="derivative">
+    <track>01</track>
+    <bitrate>125</bitrate>
+    <length>00:56</length>
+    <format>VBR MP3</format>
+    <original>battleclip_daq.wav</original>
+    <mtime>1414032769</mtime>
+    <size>880128</size>
+    <md5>be698e44d05e1cc06924cfb8dddb3e40</md5>
+    <crc32>04ba96de</crc32>
+    <sha1>62e8c6c52afe8d61cc0b8e4c6110e7298e86aa7f</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="battleclip_daq.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>battleclip_daq.wav</original>
+    <md5>ff4ae063453d7afb1ca284ff58bb9b0f</md5>
+    <mtime>1245929253</mtime>
+    <size>695288</size>
+    <crc32>49a8ba47</crc32>
+    <sha1>ed20b4b710e44b3c3653ac20c83b3aac3e6162de</sha1>
+    <length>56.13</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="battleclip_daq.png" source="derivative">
+    <format>PNG</format>
+    <original>battleclip_daq.flac</original>
+    <mtime>1414032805</mtime>
+    <size>11780</size>
+    <md5>b9dd18c07b277a00ebc95861401211c9</md5>
+    <crc32>ed71bc32</crc32>
+    <sha1>148ec6a8b2e8c002d53373a3cb099b67df71c299</sha1>
+  </file>
+  <file name="battleclip_daq.wav" source="original">
+    <format>WAVE</format>
+    <track>01</track>
+    <md5>a3cf428c9720f1a7b35556ad4e7e976f</md5>
+    <mtime>1229698810</mtime>
+    <size>4951174</size>
+    <crc32>3e8e0385</crc32>
+    <sha1>84bd9b2ed256f82c02c2b925b8eb856517d898b2</sha1>
+    <length>56.14</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="beatboxset1.csv" source="original">
+    <format>Unknown</format>
+    <mtime>1245924188</mtime>
+    <size>1311</size>
+    <md5>e3bd40d0888e8e58319cd7573ebfbfc3</md5>
+    <crc32>3dad641c</crc32>
+    <sha1>4833068621fe8aba8724612d79f39d485bb54157</sha1>
+  </file>
+  <file name="beatboxset1.ffp" source="derivative">
+    <format>Flac FingerPrint</format>
+    <original>battleclip_daq.flac</original>
+    <original>callout_Pneumatic.flac</original>
+    <original>callout_Turn-Table.flac</original>
+    <original>callout_adiao.flac</original>
+    <original>callout_azeem.flac</original>
+    <original>callout_luckeymonkey.flac</original>
+    <original>callout_mcld.flac</original>
+    <original>callout_mouss.flac</original>
+    <original>putfile_bui.flac</original>
+    <original>putfile_dbztenkaichi.flac</original>
+    <original>putfile_pepouni.flac</original>
+    <original>putfile_william.flac</original>
+    <original>snare_hex.flac</original>
+    <mtime>1414032789</mtime>
+    <size>697</size>
+    <md5>01ca76db43a6a2579bf114b966c13450</md5>
+    <crc32>20e217ba</crc32>
+    <sha1>7fa47a145f956253dfa97ba7f6bd642f7b456cb3</sha1>
+  </file>
+  <file name="beatboxset1.md5" source="derivative">
+    <format>Checksums</format>
+    <original>battleclip_daq.flac</original>
+    <original>callout_Pneumatic.flac</original>
+    <original>callout_Turn-Table.flac</original>
+    <original>callout_adiao.flac</original>
+    <original>callout_azeem.flac</original>
+    <original>callout_luckeymonkey.flac</original>
+    <original>callout_mcld.flac</original>
+    <original>callout_mouss.flac</original>
+    <original>putfile_bui.flac</original>
+    <original>putfile_dbztenkaichi.flac</original>
+    <original>putfile_pepouni.flac</original>
+    <original>putfile_william.flac</original>
+    <original>snare_hex.flac</original>
+    <mtime>1414032788</mtime>
+    <size>710</size>
+    <md5>037ddc0147bea79be025342a11554d08</md5>
+    <crc32>9e195820</crc32>
+    <sha1>7c021fd90004227e9d19ff0b037b69311d38c6ab</sha1>
+  </file>
+  <file name="beatboxset1_archive.torrent" source="metadata">
+    <btih>bc7317b28b244b4ab6aba82bb58f51a86f4283a7</btih>
+    <mtime>1541642005</mtime>
+    <size>24136</size>
+    <md5>b8693d8480f6b39d392f1ac45671e112</md5>
+    <crc32>c1c570d6</crc32>
+    <sha1>b5727c25be9e57d85b3e075b1247952210b59b5f</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="beatboxset1_files.xml" source="metadata">
+    <format>Metadata</format>
+    <md5>24b03a649b2606c14bbf5a031d914bdb</md5>
+  </file>
+  <file name="beatboxset1_meta.xml" source="metadata">
+    <format>Metadata</format>
+    <mtime>1463546098</mtime>
+    <size>1625</size>
+    <md5>0d93bb6f92627415dba01a661449ebf9</md5>
+    <crc32>34b21499</crc32>
+    <sha1>3ae3c318243d9f9405358001faeda4bb31457a14</sha1>
+  </file>
+  <file name="beatboxset1_reviews.xml" source="metadata">
+    <format>Metadata</format>
+    <md5>45ed285d8420f1e05487f6f6ddfd981f</md5>
+    <mtime>1229697909</mtime>
+    <size>175</size>
+    <crc32>def9bfa7</crc32>
+    <sha1>00dc71399d38f0e4965afe925d032ffbb1bedefa</sha1>
+  </file>
+  <file name="callout_Pneumatic.flac" source="derivative">
+    <format>Flac</format>
+    <original>callout_Pneumatic.wav</original>
+    <md5>e01e8b8e7fb4008130188b8b845d0ede</md5>
+    <mtime>1245923455</mtime>
+    <size>2480410</size>
+    <crc32>95e07b86</crc32>
+    <sha1>b657299d22548ea0248c79d821b50092a5d3e5d0</sha1>
+    <length>34.54</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="callout_Pneumatic.mp3" source="derivative">
+    <track>07</track>
+    <bitrate>168</bitrate>
+    <length>00:34</length>
+    <format>VBR MP3</format>
+    <original>callout_Pneumatic.wav</original>
+    <mtime>1414032753</mtime>
+    <size>729088</size>
+    <md5>c638ef6785cc026c7011323d33f72bb8</md5>
+    <crc32>634fafe9</crc32>
+    <sha1>1645aa1d67bc02b2c9846c428ad6aaa718e55645</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="callout_Pneumatic.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>callout_Pneumatic.wav</original>
+    <md5>b0c504b0a9307a1ddb53b35f0cbaec9f</md5>
+    <mtime>1245929269</mtime>
+    <size>460510</size>
+    <crc32>7e94ff57</crc32>
+    <sha1>220e896ee9ed368032ffb230c18a27ab3addce81</sha1>
+    <length>34.54</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="callout_Pneumatic.png" source="derivative">
+    <format>PNG</format>
+    <original>callout_Pneumatic.flac</original>
+    <mtime>1414032791</mtime>
+    <size>14496</size>
+    <md5>91c9ebe776538e4a86b06f9973b53042</md5>
+    <crc32>0dcb95ef</crc32>
+    <sha1>706ad2093b3aec43e24952827e71033972ea62f9</sha1>
+  </file>
+  <file name="callout_Pneumatic.wav" source="original">
+    <format>WAVE</format>
+    <track>07</track>
+    <md5>9fd717e7400c464997b2a131fd0004ea</md5>
+    <mtime>1245923455</mtime>
+    <size>6092188</size>
+    <crc32>5b142a9f</crc32>
+    <sha1>f18cbc02c837176a4c14c1b5781dcad05a611ae6</sha1>
+    <length>34.54</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="callout_Turn-Table.flac" source="derivative">
+    <format>Flac</format>
+    <original>callout_Turn-Table.wav</original>
+    <md5>bda44e4f0ca7f10f4f88b0f8bfe52165</md5>
+    <mtime>1229698882</mtime>
+    <size>1187787</size>
+    <crc32>3b4578f4</crc32>
+    <sha1>ecf1bf2bbaf55d32707828eb4fae75849ac22ecd</sha1>
+    <length>30.01</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="callout_Turn-Table.mp3" source="derivative">
+    <track>06</track>
+    <bitrate>115</bitrate>
+    <length>00:30</length>
+    <format>VBR MP3</format>
+    <original>callout_Turn-Table.wav</original>
+    <mtime>1414032748</mtime>
+    <size>434176</size>
+    <md5>2537101393dd0ea5e42422e58f316162</md5>
+    <crc32>855be911</crc32>
+    <sha1>8624e273f304dfed328f1073dad9f3d25461f513</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="callout_Turn-Table.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>callout_Turn-Table.wav</original>
+    <md5>f214c17ffcf65ea7434ec6f94983f464</md5>
+    <mtime>1245929192</mtime>
+    <size>382874</size>
+    <crc32>587284ab</crc32>
+    <sha1>7af10451397cb83a782a53512ba8c5cb5b352d14</sha1>
+    <length>30</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="callout_Turn-Table.png" source="derivative">
+    <format>PNG</format>
+    <original>callout_Turn-Table.flac</original>
+    <mtime>1414032802</mtime>
+    <size>12457</size>
+    <md5>98592cf9df40935ba9216ef046be21a7</md5>
+    <crc32>4053c48d</crc32>
+    <sha1>d0791730423c75c38c83936ddc5fbde6764f4417</sha1>
+  </file>
+  <file name="callout_Turn-Table.wav" source="original">
+    <format>WAVE</format>
+    <track>06</track>
+    <md5>67b960c042be7537a20e993699c47647</md5>
+    <mtime>1229698882</mtime>
+    <size>2646494</size>
+    <crc32>892e12ea</crc32>
+    <sha1>648fb7090c0d781ae07824418242b394fcab9421</sha1>
+    <length>30.01</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="callout_adiao.flac" source="derivative">
+    <format>Flac</format>
+    <original>callout_adiao.wav</original>
+    <md5>f4d8837ca8fbbc28c9e190cfa71c41df</md5>
+    <mtime>1229698828</mtime>
+    <size>1638433</size>
+    <crc32>ad8b1829</crc32>
+    <sha1>9947b5ee1ce5dab7bd8cb4c4445a6dbc8ef29ea8</sha1>
+    <length>40.85</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="callout_adiao.mp3" source="derivative">
+    <track>02</track>
+    <bitrate>85.5</bitrate>
+    <length>00:40</length>
+    <format>VBR MP3</format>
+    <original>callout_adiao.wav</original>
+    <mtime>1414032773</mtime>
+    <size>437760</size>
+    <md5>3e4fcbe21602c339defe6f8076665ba4</md5>
+    <crc32>00a755c5</crc32>
+    <sha1>3f20079cc43f3c2c8d81b489dc0020a48a233e5a</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="callout_adiao.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>callout_adiao.wav</original>
+    <md5>76fea80467259eda684bbf3ff650eead</md5>
+    <mtime>1245929248</mtime>
+    <size>487668</size>
+    <crc32>8658e1b8</crc32>
+    <sha1>7d55fc9a08075ffb5421c6246fc9646c49242e00</sha1>
+    <length>40.85</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="callout_adiao.png" source="derivative">
+    <format>PNG</format>
+    <original>callout_adiao.flac</original>
+    <mtime>1414032794</mtime>
+    <size>13317</size>
+    <md5>50f51cad0bbebf18829d862b37ae4e45</md5>
+    <crc32>94c522a3</crc32>
+    <sha1>2977951cb8ae8ad899b936471fdcb9dd0f47942e</sha1>
+  </file>
+  <file name="callout_adiao.wav" source="original">
+    <format>WAVE</format>
+    <track>02</track>
+    <md5>a8aa8b86361a0ecba6dd971873dcc356</md5>
+    <mtime>1229698828</mtime>
+    <size>3602988</size>
+    <crc32>206cfa7b</crc32>
+    <sha1>e11b3ea09bfe0fac7a3f77b7b6fa04e7b4822efd</sha1>
+    <length>40.85</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="callout_azeem.flac" source="derivative">
+    <format>Flac</format>
+    <original>callout_azeem.wav</original>
+    <md5>b9ad908ca46106a03e7927abfb285664</md5>
+    <mtime>1229698838</mtime>
+    <size>778170</size>
+    <crc32>2aca061a</crc32>
+    <sha1>0c99230783da2dd3b43c65ebe6e8ac366b0a1a6f</sha1>
+    <length>33.11</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="callout_azeem.mp3" source="derivative">
+    <track>03</track>
+    <bitrate>93.1</bitrate>
+    <length>00:33</length>
+    <format>VBR MP3</format>
+    <original>callout_azeem.wav</original>
+    <mtime>1414032771</mtime>
+    <size>386560</size>
+    <md5>f97e36034dcdf08c2d00d35c3bcb0f13</md5>
+    <crc32>df5f95bb</crc32>
+    <sha1>40332d1f74160906ad60d0bb7afba3781b30121f</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="callout_azeem.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>callout_azeem.wav</original>
+    <md5>83641fb848258a72fcd8d9ac50186b3b</md5>
+    <mtime>1245929240</mtime>
+    <size>280764</size>
+    <crc32>1655f08e</crc32>
+    <sha1>6f506e287968fab643ed81bc49266560c4819e53</sha1>
+    <length>33.11</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="callout_azeem.png" source="derivative">
+    <format>PNG</format>
+    <original>callout_azeem.flac</original>
+    <mtime>1414032797</mtime>
+    <size>14488</size>
+    <md5>09bd0a514c61868ec64e528853175601</md5>
+    <crc32>7d188ba1</crc32>
+    <sha1>cdc325707884aea39e6d14b6b0a2e09825f82de6</sha1>
+  </file>
+  <file name="callout_azeem.wav" source="original">
+    <format>WAVE</format>
+    <track>03</track>
+    <md5>fcacd3ef3bb2d426b17db8d6426d4385</md5>
+    <mtime>1229698838</mtime>
+    <size>1460268</size>
+    <crc32>27ebc641</crc32>
+    <sha1>0aa3c1637b557ec3f725fb40a9ba36cc6e947ae5</sha1>
+    <length>33.11</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="callout_luckeymonkey.flac" source="derivative">
+    <format>Flac</format>
+    <original>callout_luckeymonkey.wav</original>
+    <md5>d0658638cca7eb1fa903dddb178138ac</md5>
+    <mtime>1229698854</mtime>
+    <size>1087653</size>
+    <crc32>9bc215f0</crc32>
+    <sha1>9f74a4237a66529c5d69c87e98b02dea394c046c</sha1>
+    <length>37.72</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="callout_luckeymonkey.mp3" source="derivative">
+    <track>04</track>
+    <bitrate>103</bitrate>
+    <length>00:37</length>
+    <format>VBR MP3</format>
+    <original>callout_luckeymonkey.wav</original>
+    <mtime>1414032787</mtime>
+    <size>486400</size>
+    <md5>d8e3480a67a56cba6d2038929e3c524e</md5>
+    <crc32>d4f04fdb</crc32>
+    <sha1>91fc650ed084fdd68a7eb947e8920904ef8f021a</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="callout_luckeymonkey.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>callout_luckeymonkey.wav</original>
+    <md5>75ac25c602b229f579239020af2e22c0</md5>
+    <mtime>1245929261</mtime>
+    <size>422740</size>
+    <crc32>14cf9e</crc32>
+    <sha1>a410fefb2da5f7d6d1965dd2bcd2d625e68f07c9</sha1>
+    <length>37.72</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="callout_luckeymonkey.png" source="derivative">
+    <format>PNG</format>
+    <original>callout_luckeymonkey.flac</original>
+    <mtime>1414032799</mtime>
+    <size>11253</size>
+    <md5>57fdf1f0c2366039fad30a328bd90e34</md5>
+    <crc32>8b585c08</crc32>
+    <sha1>04029de503aa87f7893c73dbb5c7455e78e5735e</sha1>
+  </file>
+  <file name="callout_luckeymonkey.wav" source="original">
+    <format>WAVE</format>
+    <track>04</track>
+    <md5>e0faaa568306d70cbf8503df74d580e8</md5>
+    <mtime>1229698854</mtime>
+    <size>3327020</size>
+    <crc32>7de599b4</crc32>
+    <sha1>a339644ab6b5d2b339aef8ee635c8701a56762c8</sha1>
+    <length>37.72</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="callout_mcld.flac" source="derivative">
+    <format>Flac</format>
+    <original>callout_mcld.wav</original>
+    <md5>a81a68704906c4f053c5a3ac26346d35</md5>
+    <mtime>1232371067</mtime>
+    <size>1569094</size>
+    <crc32>4d3cefdf</crc32>
+    <sha1>c5b58b24116d8a11fb5636569ba43c354b1161a2</sha1>
+    <length>46</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="callout_mcld.mp3" source="derivative">
+    <track>05</track>
+    <bitrate>103</bitrate>
+    <length>00:46</length>
+    <format>VBR MP3</format>
+    <original>callout_mcld.wav</original>
+    <mtime>1414032782</mtime>
+    <size>596480</size>
+    <md5>533f1edb227065a7e7b8cc3d8d99e2b0</md5>
+    <crc32>f74c940d</crc32>
+    <sha1>cdc4163603c5fd503e92ae74ea8106956128576c</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="callout_mcld.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>callout_mcld.wav</original>
+    <md5>2f79fcba2713eed85ca9a93254af0b53</md5>
+    <mtime>1245929283</mtime>
+    <size>506228</size>
+    <crc32>124aaa5b</crc32>
+    <sha1>ee30c68732603fee8ca1b38a310e5f62848c3651</sha1>
+    <length>46</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="callout_mcld.png" source="derivative">
+    <format>PNG</format>
+    <original>callout_mcld.flac</original>
+    <mtime>1414032808</mtime>
+    <size>11113</size>
+    <md5>e9306f13f6803e42ccef7150689d6e54</md5>
+    <crc32>c30148c5</crc32>
+    <sha1>c607cbdb31b8b5f1d683f00bd61112f5f6c9c4b7</sha1>
+  </file>
+  <file name="callout_mcld.wav" source="original">
+    <format>WAVE</format>
+    <md5>c45e79bee1169af86d807c1878c32e8e</md5>
+    <track>05</track>
+    <mtime>1232371067</mtime>
+    <size>4057684</size>
+    <crc32>6240ace6</crc32>
+    <sha1>d24340fe700169fc14fad5da3df6a090d04d4597</sha1>
+    <length>46</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="callout_mouss.flac" source="derivative">
+    <format>Flac</format>
+    <original>callout_mouss.wav</original>
+    <md5>d8a865de1df548390be182fc7f7270a1</md5>
+    <mtime>1229698868</mtime>
+    <size>1584724</size>
+    <crc32>cfd30ee7</crc32>
+    <sha1>52271deed75c58d62404388add2a6c592a4f5223</sha1>
+    <length>31.27</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="callout_mouss.mp3" source="derivative">
+    <track>05</track>
+    <bitrate>123</bitrate>
+    <length>00:31</length>
+    <format>VBR MP3</format>
+    <original>callout_mouss.wav</original>
+    <mtime>1414032760</mtime>
+    <size>482304</size>
+    <md5>1495d1dd79da06bdca7fa54ebe740590</md5>
+    <crc32>86523949</crc32>
+    <sha1>fb6fea74e74b1dcaedddafea7e09d6ff53310a1c</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="callout_mouss.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>callout_mouss.wav</original>
+    <md5>9ee488628b3d4c39bd72dee1a07f7b19</md5>
+    <mtime>1245929272</mtime>
+    <size>392623</size>
+    <crc32>9ab7d812</crc32>
+    <sha1>72e44233ee302e1411b042652418b12ed4006c96</sha1>
+    <length>31.27</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="callout_mouss.png" source="derivative">
+    <format>PNG</format>
+    <original>callout_mouss.flac</original>
+    <mtime>1414032828</mtime>
+    <size>12073</size>
+    <md5>97d324d8e612fd66c585ff69bd200ebe</md5>
+    <crc32>aec6d5fe</crc32>
+    <sha1>de7c1cc089f239264a5932310f0b955719d27f92</sha1>
+  </file>
+  <file name="callout_mouss.wav" source="original">
+    <format>WAVE</format>
+    <track>05</track>
+    <md5>876d5c2f9414be0f4c1b44db44c8a17c</md5>
+    <mtime>1229698868</mtime>
+    <size>2758280</size>
+    <crc32>347b1f27</crc32>
+    <sha1>d8c02ef741295e3553cf0f589171ea30e3aab802</sha1>
+    <length>31.27</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="putfile_bui.flac" source="derivative">
+    <format>Flac</format>
+    <original>putfile_bui.wav</original>
+    <md5>7c20b9fd20398a12b4c4eb9e95c881bf</md5>
+    <mtime>1245924214</mtime>
+    <size>3912250</size>
+    <crc32>af74180a</crc32>
+    <sha1>d3c92107cf4cfb4889dd59640d2c483406e1723a</sha1>
+    <length>95.83</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="putfile_bui.mp3" source="derivative">
+    <track>07</track>
+    <bitrate>120</bitrate>
+    <length>01:35</length>
+    <format>VBR MP3</format>
+    <original>putfile_bui.wav</original>
+    <mtime>1414032779</mtime>
+    <size>1437696</size>
+    <md5>512c1c83c0d170382b24f8c712f9e616</md5>
+    <crc32>56277994</crc32>
+    <sha1>8384557c721e6a093ef1d391d891a4108678e08d</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="putfile_bui.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>putfile_bui.wav</original>
+    <md5>3cab86a3cb5a4cbf384f65e1b203a0d4</md5>
+    <mtime>1245929189</mtime>
+    <size>1229532</size>
+    <crc32>4698178e</crc32>
+    <sha1>8e01e108c33d8120bd28f8d3f51f75a74afcfaef</sha1>
+    <length>95.83</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="putfile_bui.png" source="derivative">
+    <format>PNG</format>
+    <original>putfile_bui.flac</original>
+    <mtime>1414032820</mtime>
+    <size>10588</size>
+    <md5>cde3c72528c99d3e3cd0a771bb8c74d9</md5>
+    <crc32>bc54efd5</crc32>
+    <sha1>67c5d1a0de2158f317b34df742a0dd79f4e4035b</sha1>
+  </file>
+  <file name="putfile_bui.wav" source="original">
+    <format>WAVE</format>
+    <track>07</track>
+    <mtime>1245924214</mtime>
+    <size>8452206</size>
+    <md5>1916e4af8774df20fd62a0744887d8ef</md5>
+    <crc32>75d8b221</crc32>
+    <sha1>d7852627113bcc83c043d7462b2f55a6cd91b56b</sha1>
+    <length>95.83</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="putfile_dbztenkaichi.flac" source="derivative">
+    <format>Flac</format>
+    <original>putfile_dbztenkaichi.wav</original>
+    <md5>922cafe7b532b47c74feba4fb0834b38</md5>
+    <mtime>1229698936</mtime>
+    <size>483875</size>
+    <crc32>7b553fd</crc32>
+    <sha1>dabf29844c4e88c7dd082e4a108d25b7c6be6588</sha1>
+    <length>64.25</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="putfile_dbztenkaichi.mp3" source="derivative">
+    <track>08</track>
+    <bitrate>89.6</bitrate>
+    <length>01:04</length>
+    <format>VBR MP3</format>
+    <original>putfile_dbztenkaichi.wav</original>
+    <mtime>1414032784</mtime>
+    <size>720896</size>
+    <md5>daba56ec81be82cb5203a35864e84d11</md5>
+    <crc32>c8a44070</crc32>
+    <sha1>220f7b17701181fc70b1970f53c009dbc28dcb30</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="putfile_dbztenkaichi.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>putfile_dbztenkaichi.wav</original>
+    <md5>5d0097a30ef03d140f56d9075fe8c6f2</md5>
+    <mtime>1245929169</mtime>
+    <size>496589</size>
+    <crc32>f4170328</crc32>
+    <sha1>207664a1bc97d4ba21d8852f333d9a3494c4bcd8</sha1>
+    <length>64.24</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="putfile_dbztenkaichi.png" source="derivative">
+    <format>PNG</format>
+    <original>putfile_dbztenkaichi.flac</original>
+    <mtime>1414032817</mtime>
+    <size>12737</size>
+    <md5>41c9cbf9d72cff6751a13ebec68eed99</md5>
+    <crc32>f77eb9cc</crc32>
+    <sha1>ac0fe6a53996a8552c914ee94b931f3e0c88c3f8</sha1>
+  </file>
+  <file name="putfile_dbztenkaichi.wav" source="original">
+    <format>WAVE</format>
+    <track>08</track>
+    <md5>ebc52efe3615d8b3e41e1bc35d54957f</md5>
+    <mtime>1229698936</mtime>
+    <size>1416674</size>
+    <crc32>c301da29</crc32>
+    <sha1>0ca6ca4899dd4a92f2ad82d2d658badf80f932fa</sha1>
+    <length>64.25</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="putfile_pepouni.flac" source="derivative">
+    <format>Flac</format>
+    <original>putfile_pepouni.wav</original>
+    <md5>2149098415c6f2efe16cf3a57e906f52</md5>
+    <mtime>1229698985</mtime>
+    <size>7509986</size>
+    <crc32>df05c5cf</crc32>
+    <sha1>e2fc13058d9b104bf19d9247f457668626ea38da</sha1>
+    <length>92.55</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="putfile_pepouni.mp3" source="derivative">
+    <track>09</track>
+    <bitrate>191</bitrate>
+    <length>01:32</length>
+    <format>VBR MP3</format>
+    <original>putfile_pepouni.wav</original>
+    <mtime>1414032765</mtime>
+    <size>2215936</size>
+    <md5>07dc935824e111ce69ba130510599281</md5>
+    <crc32>be85b62c</crc32>
+    <sha1>657f040248991e6994656a99e53696f41743c339</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="putfile_pepouni.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>putfile_pepouni.wav</original>
+    <md5>d8359113214f1d8731d1173f7aa30ed8</md5>
+    <mtime>1245929209</mtime>
+    <size>1387289</size>
+    <crc32>7a9ec2b3</crc32>
+    <sha1>b4e34afee6f60c9e163a7ff07a0479e6019fa798</sha1>
+    <length>92.55</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="putfile_pepouni.png" source="derivative">
+    <format>PNG</format>
+    <original>putfile_pepouni.flac</original>
+    <mtime>1414032825</mtime>
+    <size>10779</size>
+    <md5>becff3bb0b06fc62867feb93ee3d945b</md5>
+    <crc32>21fcbb6e</crc32>
+    <sha1>bbcefb72883e0a77b152895999b970bf1aa18d06</sha1>
+  </file>
+  <file name="putfile_pepouni.wav" source="original">
+    <format>WAVE</format>
+    <track>09</track>
+    <md5>271d2b6506672d40c3ea5d0989ba0883</md5>
+    <mtime>1229698985</mtime>
+    <size>16326700</size>
+    <crc32>b03f1778</crc32>
+    <sha1>18c616da6e34312aca6b9f27b319aee5f1a4f48a</sha1>
+    <length>92.55</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="putfile_vonny.mp3" source="derivative">
+    <track>10</track>
+    <bitrate>203</bitrate>
+    <length>00:56</length>
+    <format>VBR MP3</format>
+    <original>putfile_vonny.wav</original>
+    <mtime>1414032757</mtime>
+    <size>1438720</size>
+    <md5>073faf9c758752f74466b4b785b1b08b</md5>
+    <crc32>17e2da50</crc32>
+    <sha1>837b3bb20616f840e95f192e8abb76a11beffe99</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="putfile_vonny.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>putfile_vonny.wav</original>
+    <md5>b65b1fb9f85f25a0dcc58f18205976a3</md5>
+    <mtime>1245929233</mtime>
+    <size>889695</size>
+    <crc32>4964c540</crc32>
+    <sha1>2535236213f391af3d5b4a30a91443088ac8078f</sha1>
+    <length>56.6</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="putfile_vonny.png" source="derivative">
+    <format>PNG</format>
+    <original>putfile_vonny.mp3</original>
+    <mtime>1414032846</mtime>
+    <size>12251</size>
+    <md5>dda0bebab8b794bb1380410966e87d2e</md5>
+    <crc32>3f464b2a</crc32>
+    <sha1>e4f3219cf62bfc9b975b3561c829b0e651f99295</sha1>
+  </file>
+  <file name="putfile_vonny.wav" source="original">
+    <format>WAVE</format>
+    <track>10</track>
+    <md5>7bbfd9d1ad494acd0f11e0e6e4b4523f</md5>
+    <mtime>1229699063</mtime>
+    <size>19974388</size>
+    <crc32>e3e31064</crc32>
+    <sha1>d5a5c5dc5f966f7e93f629357d6b9a711d9a9d6b</sha1>
+    <length>56.62</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="putfile_william.flac" source="derivative">
+    <format>Flac</format>
+    <original>putfile_william.wav</original>
+    <md5>68ed9ed09122342f31ba8df3b2313621</md5>
+    <mtime>1229699077</mtime>
+    <size>1245098</size>
+    <crc32>1e946134</crc32>
+    <sha1>efc367821bc4e915a6a49b68f9aea1999021558b</sha1>
+    <length>31.09</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="putfile_william.mp3" source="derivative">
+    <track>11</track>
+    <bitrate>121</bitrate>
+    <length>00:31</length>
+    <format>VBR MP3</format>
+    <original>putfile_william.wav</original>
+    <mtime>1414032746</mtime>
+    <size>470016</size>
+    <md5>b1292132075c9ea6babda4391d888b67</md5>
+    <crc32>5e758569</crc32>
+    <sha1>841670d84dbdb7ba4b52beda2a3391947d43421c</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="putfile_william.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>putfile_william.wav</original>
+    <md5>f7d6b3fe456ed255e5c2b8f6e2837f7d</md5>
+    <mtime>1245929219</mtime>
+    <size>402251</size>
+    <crc32>96eaf0c4</crc32>
+    <sha1>1b392eb772f7704b1a532b9cfffb2734a8033ad1</sha1>
+    <length>31.09</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="putfile_william.png" source="derivative">
+    <format>PNG</format>
+    <original>putfile_william.flac</original>
+    <mtime>1414032814</mtime>
+    <size>14462</size>
+    <md5>eedef4e65c20791b0bb6438650fa1437</md5>
+    <crc32>379f86f8</crc32>
+    <sha1>e310957f48c0d17faaeee6a117141b049340f844</sha1>
+  </file>
+  <file name="putfile_william.wav" source="original">
+    <format>WAVE</format>
+    <track>11</track>
+    <md5>f86a53038939696f638f948eae54233d</md5>
+    <mtime>1229699077</mtime>
+    <size>2742316</size>
+    <crc32>45fdf658</crc32>
+    <sha1>88af753af5763415f60447e617693f49d2b5dccb</sha1>
+    <length>31.09</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="snare_hex.flac" source="derivative">
+    <format>Flac</format>
+    <original>snare_hex.wav</original>
+    <md5>50df04811c5b415128d1fb2f7b92dfbc</md5>
+    <mtime>1229699086</mtime>
+    <size>430029</size>
+    <crc32>4a0a4a9b</crc32>
+    <sha1>d5b3cdb8087fcc658b30b79cf69f2d4fe4eaaea8</sha1>
+    <length>12.39</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="snare_hex.mp3" source="derivative">
+    <track>12</track>
+    <bitrate>115</bitrate>
+    <length>00:12</length>
+    <format>VBR MP3</format>
+    <original>snare_hex.wav</original>
+    <mtime>1414032750</mtime>
+    <size>179712</size>
+    <md5>d1655973922353fca3971e9022b6a059</md5>
+    <crc32>6fe9f73f</crc32>
+    <sha1>f2cd312e6acf39ef98c61f8b36fdcd41c0270239</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="snare_hex.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>snare_hex.wav</original>
+    <md5>66095863a2fa0e0ee00420aeb1fbefdb</md5>
+    <mtime>1245929215</mtime>
+    <size>153552</size>
+    <crc32>deb2fd2</crc32>
+    <sha1>d6b2bcb8d46792e1e2646b5704f91aff6693001a</sha1>
+    <length>12.39</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="snare_hex.png" source="derivative">
+    <format>PNG</format>
+    <original>snare_hex.flac</original>
+    <mtime>1414032830</mtime>
+    <size>6644</size>
+    <md5>a76c07d41d676d24ec230a60771a946d</md5>
+    <crc32>edefaea4</crc32>
+    <sha1>17d7645704f47908f7506b178cbd78907cfe7ec4</sha1>
+  </file>
+  <file name="snare_hex.wav" source="original">
+    <format>WAVE</format>
+    <track>12</track>
+    <md5>fa873b1eed425cb9e346c7f9bfe5e805</md5>
+    <mtime>1229699086</mtime>
+    <size>1092652</size>
+    <crc32>55bdde8e</crc32>
+    <sha1>3bf36224e4caaf097519ebf2f8f535d4f9a01f1e</sha1>
+    <length>12.39</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+</files>
